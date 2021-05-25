@@ -1,0 +1,27 @@
+Site - https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Resolução : 
+
+por filho Vermelho
+por pai Vermelho
+atavessar
+deixar pai vermelho
+atavessar
+por filho verde
+atravessar
+por filho vermelho
+atravessar
+por pai verde
+atravessar
+deixar pai verde
+atravessar
+por filho azul
+atravessar
+deixar fiho verde
+atravessar
+por pai azul
+atravessar
+deixar pai azul
+deixar filho azul
+
+Fim

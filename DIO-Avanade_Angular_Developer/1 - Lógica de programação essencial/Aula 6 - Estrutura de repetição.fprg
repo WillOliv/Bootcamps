@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Will"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-03-11 08:26:16 "/>
+        <attribute name="created" value="V2lsbDtERVNLVE9QLTVESkQ5Qjk7MjAyMS0wMy0xMTsiMDQ6MjU6NDMgIjsyNjE3"/>
+        <attribute name="edited" value="V2lsbDtERVNLVE9QLTVESkQ5Qjk7MjAyMS0wMy0xMTsiMDg6MjY6MTYgIjsxOzI3MzA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="base, num, max, mult" type="Integer" array="False" size=""/>
+            <assign variable="base" expression="9"/>
+            <assign variable="mult" expression="0"/>
+            <assign variable="num" expression="0"/>
+            <assign variable="max" expression="base*10"/>
+            <output expression="&quot;Tabuada de &quot; &amp; base" newline="True"/>
+            <while expression="num&lt;=max">
+                <output expression="&quot;9 x &quot; &amp; mult &amp; &quot; = &quot; &amp; num" newline="True"/>
+                <assign variable="num" expression="num+base"/>
+                <assign variable="mult" expression="mult+1"/>
+            </while>
+            <output expression="&quot;Fim da tabuada de &quot; &amp; base" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

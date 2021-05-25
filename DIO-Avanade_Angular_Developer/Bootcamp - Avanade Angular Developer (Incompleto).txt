@@ -1,0 +1,20 @@
+Para Fazer
+
+8 - JavaScript ES6 essencial                                                       
+11 - Desemvolvimento avançado com JavaScript E6
+13 - Fundamentos de Arquitetura de Sistemas 
+14 - Introdução ao Angular 8
+15 - Técnias avançadas em Angular 8
+19 - Implemnetando testes automatizados usando Cypress em uma aplicação Angular    
+21 - Conceitos avançados de performace e otimização usando Angular
+
+Não Disponíveis Fora do Bootcamp
+
+9 - Como resolver seus primeiros desafios de código               
+10 - Solução de problemas básicos em JavaScript
+12 - Praticando programação em JavaScript
+16 - Aplicações avançadas com Angular                           
+17 - Desenvolvendo SPA com Angular
+18 - A arquitetura de componentes e a gestão da complexidade front-end
+20 - Criando projeto para consulta prévia do tempo via API
+22 - Desenvolvimento de problemas avançados em JavaScript

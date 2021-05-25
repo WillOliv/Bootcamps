@@ -1,0 +1,55 @@
+body
+{
+	background: #ccc;
+	width: 800px;
+	margin: auto
+}
+#title, .subtitle, .post_title
+{
+	color : blue;
+}
+.subtitle 
+{
+	font-size: 25px;
+}
+.post_title
+{
+	font-size: 20;
+	font-style: italic;
+	color: green;
+}
+.post
+{
+	background: #fff;
+	padding: 10px;
+	border: 3px solid green;
+	margin: 5px;
+	border-radius: 10px
+}
+.post_imagem
+{
+	border: 5px red;
+	margin-top: 10px;
+	border-radius: 10px;
+	width: 100%
+	
+}
+.conteudo
+{
+	font-size: 14px;
+	font-family: arial;
+	font-style: italic;
+	font-weight: bold
+}
+.destaque{
+text-transform: uppercase;
+font-size: 20px;
+text-decoration:underline
+}
+
+.contact
+{
+	list-style-type: none;
+	padding-left: 15px
+}
+	

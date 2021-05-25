@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Will"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-03-10 12:05:12 "/>
+        <attribute name="created" value="V2lsbDtERVNLVE9QLTVESkQ5Qjk7MjAyMS0wMy0xMDsiMTE6NTY6MjcgIjsyNjIw"/>
+        <attribute name="edited" value="V2lsbDtERVNLVE9QLTVESkQ5Qjk7MjAyMS0wMy0xMDsiMTI6MDU6MTIgIjsxOzI3MTc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1, n2, n3, n4, med, total" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <output expression="&quot;Qual o nome do aluno? &quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Qual sua primeira nota? &quot;" newline="True"/>
+            <input variable="n1"/>
+            <output expression="&quot;Qual sua segunda nota? &quot;" newline="True"/>
+            <input variable="n2"/>
+            <output expression="&quot;Qual sua terceira nota? &quot;" newline="True"/>
+            <input variable="n3"/>
+            <output expression="&quot;Qual sua quartra nota? &quot;" newline="True"/>
+            <input variable="n4"/>
+            <assign variable="total" expression="n1+n2+n3+n4"/>
+            <assign variable="med" expression="total/4"/>
+            <output expression="&quot;Aluno : &quot; &amp; nome" newline="True"/>
+            <output expression="&quot;Nota total : &quot; &amp; total" newline="True"/>
+            <output expression="&quot;M&#233;dia final : &quot; &amp; med" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

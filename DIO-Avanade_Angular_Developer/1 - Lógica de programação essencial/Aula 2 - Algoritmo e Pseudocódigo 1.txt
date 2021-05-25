@@ -1,0 +1,53 @@
+"Crie um algoritmo do seu dia"
+
+Resolução :
+
+MANHÃ
+Acordar
+Levantar da cama
+Ir para cozinha
+    Beber água
+    Fazer café da manhã
+    Comer
+    Por prato na louça
+Ir ao banheiro
+    Escovar dentes
+    Lavar o rosto
+Ir ao quarto
+    Ligar laptop
+    Assistir aula
+    Desligar laptop
+Ir ao quintal
+    Se exercitar
+Ir ao banheiro
+    Tomar banho
+Ir ao quarto
+    Se enxugar
+    Se vestir
+
+TARDE
+Ir para cozinha
+    Fazer almoço
+    Comer
+    Por prato na louça
+Ir ao quarto
+    Ligar laptop
+    Assistir aula
+    Revisar aula
+    Praticar aula
+    Desligar laptop
+
+NOITE
+Ir para cozinha
+    Fazer janta
+    Comer
+    Por prato na louça
+Ir para o quarto
+    Ligar laptop
+    Estudar desenho
+    Estudar inglês
+    Praticar desenho
+    Ir para a cama
+        Dormir
+
+(Rotina ideal porém utópica)

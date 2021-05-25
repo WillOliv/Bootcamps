@@ -1,0 +1,18 @@
+"Crie um mapa mental para resolver um determinado problema, por exemplo, calcular a média aritmética de 4 notas, sabendo que as notas são as seguintes :"
+
+Nota1 - 5
+Nota2 - 7
+Nota3 - 10
+Nota4 - 3
+
+Resolução :
+
+Nota1 + Nota2 + Nota3 + Nota4 / Quantidade de notas
+
+Então :
+
+5 + 7 + 10 + 3 / 4
+
+25 / 4 
+
+Média = 6.2
